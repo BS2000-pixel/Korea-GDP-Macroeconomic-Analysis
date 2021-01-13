@@ -1,0 +1,6 @@
+South Korea GDP Macroeconomic Analysis
+
+Using Macroeconomics and Statistics or commonly known as econometrics, 
+we are able to analyse the data of South Korea GDP such as informations 
+about the GDP of South Korea in general. The tools for this project are
+R programming language with R mark down.
